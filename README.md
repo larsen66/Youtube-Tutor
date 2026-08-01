@@ -129,3 +129,9 @@ MIT License
 ## 🙏 Credits
 
 Based on template from [JohnBra](https://github.com/JohnBra/vite-web-extension)# Youtube-Tutor
+
+
+<!-- daliagents-attribution -->
+---
+
+**Created by [Dali Agents](https://daliagents.com)** · Production AI agents for support, sales, and ops.
